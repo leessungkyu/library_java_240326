@@ -25,7 +25,7 @@ public class Book {
 	}
 	public void setbNo(String bNo) {
 		this.bNo = bNo;
-	}
+	} 
 	public String getbTitle() {
 		return bTitle;
 	}
